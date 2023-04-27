@@ -5,7 +5,7 @@
 
 
 ## 1주차(4.24 ~ 4.30)
-- [1152번: 단어의 개수 ](https://www.acmicpc.net/problem/1152)
+- [1152번: 단어의 개수 ](https://www.acmicpc.net/problem/1152){:target="_blank"} 
 - [5622번: 다이얼 ](https://www.acmicpc.net/problem/5622 )
 - [9012번: 괄호](https://www.acmicpc.net/problem/9012)
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
