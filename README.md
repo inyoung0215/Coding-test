@@ -11,7 +11,7 @@
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 
 ## 2주차(5.1 ~ 5.7)
-- [10866번: 덱 ](https://www.acmicpc.net/problem/1152)
+- [10866번: 덱 ](https://www.acmicpc.net/problem/10866)
 - [11650번: 좌표 정렬하기 ](https://www.acmicpc.net/problem/11650)
 - [1021번: 회전하는 큐 ](https://www.acmicpc.net/problem/1021)
 - [1806번: 부분합 ](https://www.acmicpc.net/problem/1806)
