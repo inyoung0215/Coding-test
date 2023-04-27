@@ -5,7 +5,6 @@
 
 
 ## 1주차(4.24 ~ 4.30)
-- <a href="https://www.acmicpc.net/problem/1152" target=_blank>단어의 개수</a>
 - [1152번: 단어의 개수 ](https://www.acmicpc.net/problem/1152)
 - [5622번: 다이얼 ](https://www.acmicpc.net/problem/5622 )
 - [9012번: 괄호](https://www.acmicpc.net/problem/9012)
