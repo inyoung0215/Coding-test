@@ -14,4 +14,4 @@
 - [10866번: 덱 ](https://www.acmicpc.net/problem/10866)
 - [11650번: 좌표 정렬하기 ](https://www.acmicpc.net/problem/11650)
 - [1021번: 회전하는 큐 ](https://www.acmicpc.net/problem/1021)
-- [1806번: 부분합 ](https://www.acmicpc.net/problem/1806)
+- [3273번: 두 수의 합 ](https://www.acmicpc.net/problem/3273)
