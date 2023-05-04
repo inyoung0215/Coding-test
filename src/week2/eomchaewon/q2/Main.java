@@ -1,4 +1,4 @@
-package week2.eomchaewon.BOJ11650;
+package week2.eomchaewon.q2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
