@@ -15,3 +15,9 @@
 - [11650번: 좌표 정렬하기 ](https://www.acmicpc.net/problem/11650)
 - [1021번: 회전하는 큐 ](https://www.acmicpc.net/problem/1021)
 - [3273번: 두 수의 합 ](https://www.acmicpc.net/problem/3273)
+
+## 3주차(5.8 ~ 5.14)
+- [10816번: 숫자 카드 2  ](https://www.acmicpc.net/problem/10816)
+- [14425번: 문자열 집합 ](https://www.acmicpc.net/problem/14425)
+- [2606번: 바이러스 ](https://www.acmicpc.net/problem/2606)
+- [1806번: 부분합  ](https://www.acmicpc.net/problem/1806)
