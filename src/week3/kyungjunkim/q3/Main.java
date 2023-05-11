@@ -13,6 +13,7 @@ public class Main {
     static void dfs(int v){
         count++;
         visit[v] = true;
+        System.out.println("visit[v] = " + visit[v]);
         for(int i=1;i<=N;i++){
             if((!visit[i])&&(graph[v][i])){
                 dfs(i);

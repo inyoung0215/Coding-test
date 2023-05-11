@@ -20,7 +20,7 @@ public class Main {
         int start = 0;
         int end = 0;
         int curSum = arr[0];
-        int minLen = -1;
+        int minLen = Integer.MIN_VALUE;
 
         while (start <= end && end < num) {
             if (curSum >= target) {
@@ -32,7 +32,7 @@ public class Main {
             }
         }
 
-        if (minLen == -1) {
+        if (minLen == Integer.MIN_VALUE) {
             bw.write("0");
         } else {
             bw.write(String.valueOf(minLen));
