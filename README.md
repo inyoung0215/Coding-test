@@ -21,3 +21,9 @@
 - [14425번: 문자열 집합 ](https://www.acmicpc.net/problem/14425)
 - [2606번: 바이러스 ](https://www.acmicpc.net/problem/2606)
 - [1806번: 부분합  ](https://www.acmicpc.net/problem/1806)
+
+## 4주차(5.15 ~ 5.21)
+- [2740번: 행렬 곱셈  ](https://www.acmicpc.net/problem/2740)
+- [1966번: 프린터 큐 ](https://www.acmicpc.net/problem/1966)
+- [24479번: 알고리즘 수업 - 깊이 우선 탐색 1 ](https://www.acmicpc.net/problem/24479)
+- [24444번: 알고리즘 수업 - 너비 우선 탐색 1  ](https://www.acmicpc.net/problem/24444)
