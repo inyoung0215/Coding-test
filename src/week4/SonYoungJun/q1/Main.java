@@ -1,4 +1,4 @@
-package week4.q1;
+package week4.SonYoungJun.q1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
