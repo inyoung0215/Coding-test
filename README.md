@@ -27,3 +27,9 @@
 - [1966번: 프린터 큐 ](https://www.acmicpc.net/problem/1966)
 - [24479번: 알고리즘 수업 - 깊이 우선 탐색 1 ](https://www.acmicpc.net/problem/24479)
 - [24444번: 알고리즘 수업 - 너비 우선 탐색 1  ](https://www.acmicpc.net/problem/24444)
+
+## 5주차(5.22 ~ 5.28)
+- [2018번: 수들의 합 5  ](https://www.acmicpc.net/problem/2018)
+- [2839번: 설탕 배달 ](https://www.acmicpc.net/problem/2839)
+- [1764번: 듣보잡 ](https://www.acmicpc.net/problem/1764)
+- [3986번: 좋은 단어  ](https://www.acmicpc.net/problem/3986)
