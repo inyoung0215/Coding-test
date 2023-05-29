@@ -33,3 +33,9 @@
 - [2839번: 설탕 배달 ](https://www.acmicpc.net/problem/2839)
 - [1764번: 듣보잡 ](https://www.acmicpc.net/problem/1764)
 - [3986번: 좋은 단어  ](https://www.acmicpc.net/problem/3986)
+
+## 6주차(5.29 ~ 6.4)
+- [1316번: 그룹 단어 체커  ](https://www.acmicpc.net/problem/1316)
+- [1213번: 팰린드롬 만들기 ](https://www.acmicpc.net/problem/1213)
+- [25497번: 기술 연계마스터 임스 ](https://www.acmicpc.net/problem/25497)
+- [1436번: 영화감독 숌  ](https://www.acmicpc.net/problem/1436)
