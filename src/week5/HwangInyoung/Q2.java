@@ -1,4 +1,4 @@
-package week5;
+package week5.HwangInyoung;
 
 import java.io.BufferedReader;
 import java.io.IOException;
