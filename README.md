@@ -43,4 +43,4 @@
 - [1436번: 영화감독 숌  ](https://www.acmicpc.net/problem/1436)
 
 ## 7주차(6.12 ~ 6.16)
--[11403번: 경로 찾기](https://www.acmicpc.net/problem/11403) (엄채원)
+- [11403번: 경로 찾기](https://www.acmicpc.net/problem/11403) (엄채원)
