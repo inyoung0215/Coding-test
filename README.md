@@ -1,5 +1,7 @@
 # 4조 코딩테스트 연습 레포지토리
 
+#### - 각 주마다 한 문제씩 선정하여 README.md에 등록해주세요
+
 #### - 각 주차 패키지에 자신의 이름으로 패키지를 생성하고 코드를 올려주시면 됩니다.
 #### - 자신의 이름으로(ex.LeeJaewon) 브랜치를 생성하여 pr을 보내주세요
 
@@ -39,3 +41,6 @@
 - [1213번: 팰린드롬 만들기 ](https://www.acmicpc.net/problem/1213)
 - [25497번: 기술 연계마스터 임스 ](https://www.acmicpc.net/problem/25497)
 - [1436번: 영화감독 숌  ](https://www.acmicpc.net/problem/1436)
+
+## 7주차(6.12 ~ 6.16)
+-[11403번: 경로 찾기](https://www.acmicpc.net/problem/11403) (엄채원)
