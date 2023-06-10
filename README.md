@@ -45,3 +45,4 @@
 ## 7주차(6.12 ~ 6.16)
 - [11403번: 경로 찾기](https://www.acmicpc.net/problem/11403) (엄채원)
 - [1314번: 수강신청](https://www.acmicpc.net/problem/13414) (김경준)
+- [1697번: 숨바꼭질](https://www.acmicpc.net/problem/1697) (손영준)
