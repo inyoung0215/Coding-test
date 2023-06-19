@@ -47,3 +47,6 @@
 - [1314번: 수강신청](https://www.acmicpc.net/problem/13414) (김경준)
 - [1697번: 숨바꼭질](https://www.acmicpc.net/problem/1697) (손영준)
 - [7576번: 토마토](https://www.acmicpc.net/problem/7576) (황인영)
+
+## 8주차(6.19 ~ 6.23)
+- [2579번: 계단오르기](https://www.acmicpc.net/problem/2579) (엄채원)
