@@ -51,3 +51,4 @@
 ## 8주차(6.19 ~ 6.23)
 - [2579번: 계단오르기](https://www.acmicpc.net/problem/2579) (엄채원)
 - [1904번: 01타일](https://www.acmicpc.net/problem/1904) (황인영)
+- [2630번: 색종이 만들기](https://www.acmicpc.net/problem/2630) (황인영)
